@@ -8,7 +8,7 @@ Modification of Region: suggested-username
 
 ## Setup:
 - Place all .def files in the defs folder inside `<path to proxy>\node_modules\tera-data\protocol\` (there will be lots of other .def files already inside)
-- Add following map to node_modules\tera-data\map\protocol.363037.map
+- Add following map to node_modules\tera-data\map\protocol.363037.map<br>
 C_SET_SEND_PARCEL_TYPE = 25212<br>
 C_SET_SEND_PARCEL_MONEY = 59874<br>
 C_SEND_PARCEL = 53305<br>
