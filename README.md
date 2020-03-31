@@ -8,7 +8,7 @@ Modification of Region: suggested-username
 
 ## Setup:
 - Place all .def files in the defs folder inside `<path to proxy>\data\protocol\` (there will be lots of other .def files already inside)
-- Create protocol.366222.mao on data\opcodes\ and edit it using notepad or notepad++ and add following lines:<br>
+- Create protocol.366222.map on data\opcodes\ and edit it using notepad or notepad++ and add following lines:<br>
 C_SET_SEND_PARCEL_TYPE = 53832<br>
 C_SET_SEND_PARCEL_MONEY = 40767<br>
 C_SEND_PARCEL = 57957<br>
@@ -27,4 +27,7 @@ Each message is attached with 1 (one) copper each, so the recipient may not batc
 ### mememailnum [number]
 - Set the maximum number of parcels to send (note: will not exceed target inbox capacity of 100, or other game related restrictions).
 ### mememailstop
-- Interrupts the mailing procedure.
+- Interrupts the mailing procedure.<br><br>
+
+Voxe of Mystel is a fucking pedophile
+
