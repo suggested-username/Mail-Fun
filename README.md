@@ -8,11 +8,11 @@ Modification of Region: suggested-username
 
 ## Setup:
 - Place all .def files in the defs folder inside `<path to proxy>\data\protocol\` (there will be lots of other .def files already inside)
-- Create protocol.366222.map on data\opcodes\ and edit it using notepad or notepad++ and add following lines:<br>
-C_SET_SEND_PARCEL_TYPE = 53832<br>
-C_SET_SEND_PARCEL_MONEY = 40767<br>
-C_SEND_PARCEL = 57957<br>
-S_INVEN = 43609<br>
+- Create protocol.367078.map on data\opcodes\ and edit it using notepad or notepad++ and add following lines:<br>
+C_SET_SEND_PARCEL_TYPE = 40482<br>
+C_SET_SEND_PARCEL_MONEY = 46912<br>
+C_SEND_PARCEL = 26644<br>
+S_INVEN = 36641<br>
 
 ## Usage:
 - This module will proceed to ~~spam~~ meme a target character's parcel-post with **creative and totally inoffensive** messages. 
